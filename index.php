@@ -30,7 +30,7 @@
     <div class="wrapper">
         <div class="container">
             <div class="jumbotron text-center">
-                <h1>PHP Progress Bar</h1>
+                <h1>PHP Progress Bar with percentage</h1>
                 <p>A very simple way to show progress bar with percentage for long running php scripts. You can use this as PHP csv import progress bar or any other server side php progress bar. I've used only PHP and JavaScript (Ajax and SSE)</p>
             </div>
 
